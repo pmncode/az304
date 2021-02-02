@@ -8,7 +8,6 @@
 Denne lab er taget fra AZ-301 da der ikke er en lab til AZ-304 her endnu - den kan findes [her](https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T03_Lab_Mod02_Deploying%20Managed%20Containerized%20Workloads%20to%20Azure.md).
 
 
-
 # Module 2: Design a Network Solution
 
 ## Links
@@ -30,12 +29,13 @@ Denne lab er taget fra AZ-301 da der ikke er en lab til AZ-304 her endnu - den k
 # Module 5: Design Governance
 
 ## Links
-
-## Lab
+[Tutorial: Create and manage policies to enforce compliance](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage) - bygger en policy fra bunden - god walkthrough
+## Lab 
 
 # Module 6: Design a Solution for Databases
 
 ## Links
+- [INtroduction to Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) - i bunden af artiklen er der links til introduktion til de fem API'er
 
 ## Lab
 
